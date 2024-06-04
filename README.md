@@ -1,13 +1,13 @@
 
 <div class="introduction my-3">
-<p><span class="fw-bold text-uppercase">Hi everyone 😃</span>, I’m Esteban, Frontend Developer from <span class="fw-bold">Chile 🇨🇱</span>. I’m an enthusiast and creative boy who wants learn new skills about web develop. I’ve worked about last 15 years at IT area, in autodidact form, when I was studying computer engineering and after when I’ve started to work freelance. 💻</p>
+<p><h1 class="fw-bold text-uppercase">Hi everyone 😃</h1> I’m Esteban, Frontend Developer from <strong class="fw-bold">Chile 🇨🇱</strong>. I’m an enthusiast and creative boy who wants learn new skills about web develop. I’ve worked about last 15 years at IT area, in autodidact form, when I was studying computer engineering and after when I’ve started to work freelance. 💻</p>
 
 <p>I’ve knowledge in CMS, punctually Wordpress, PHP, Mysql databases and others topic relatives to websites develop and SaaS technologies.</p>
 </div>
 
 <br>
 <div class="actual my-3">
-<span class="fw-bold text-uppercase py-3">👨🏻‍💻 Me now.</span>
+<h2 class="fw-bold text-uppercase py-3">👨🏻‍💻 Me now.</h2>
 <hr class="w-25">
 
 <p>At the present time, I’m ending a bootcamp of Frontend develop, to improve my skill at this area. I’m learning about Vue.js framework, Scss, Javascript and Firebase, and also I’m developing freelance some frontend systems interface for little local business.</p>
@@ -15,7 +15,7 @@
 
 <br>
 <div class="skills my-3">
-<span class="fw-bold text-uppercase py-3">⌨️ Skills.</span>
+<h2 class="fw-bold text-uppercase py-3">⌨️ Skills.</h2>
 <hr class="w-25">
 
 <div class="d-flex g-3 flex-row flex-wrap g-3">
@@ -36,7 +36,7 @@
 
 <br>
 <div class="software my-3">
-<span class="fw-bold text-uppercase py-3">🖥️ Software.</span>
+<h2 class="fw-bold text-uppercase py-3">🖥️ Software.</h2>
 <hr class="w-25">
 
 <div class="d-flex g-3 flex-row flex-wrap g-3">
@@ -52,7 +52,7 @@
 
 <br>
 <div class="expectations my-3">
-<span class="fw-bold text-uppercase py-3">🚀 Expectations.</span>
+<h2 class="fw-bold text-uppercase py-3">🚀 Expectations.</h2>
 <hr class="w-25">
 
 <p>I would like to continue developing creative projects and creating unique web interfaces to help those who have ideas and do not know how to translate them into a real project that helps achieve their objectives.</p>
@@ -60,7 +60,7 @@
 
 <br>
 <div class="contact my-3">
-<span class="fw-bold text-uppercase py-3">📨 Contact me.</span>
+<h2 class="fw-bold text-uppercase py-3">📨 Contact me.</h2>
 <hr class="w-25">
 
 <div class="d-flex g-3 flex-row flex-wrap g-3 py-3">
@@ -75,7 +75,7 @@
 
 <br>
 <div class="portfolio my-3">
-<span class="fw-bold text-uppercase py-3">💼 Portfolio.</span>
+<h2 class="fw-bold text-uppercase py-3">💼 Portfolio.</h2>
 <hr class="w-25">
 
 <span>Under construction...</span>
