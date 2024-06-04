@@ -5,6 +5,7 @@
 <p>I’ve knowledge in CMS, punctually Wordpress, PHP, Mysql databases and others topic relatives to websites develop and SaaS technologies.</p>
 </div>
 
+<br>
 <div class="actual my-3">
 <span class="fw-bold text-uppercase py-3">👨🏻‍💻 Me now.</span>
 <hr class="w-25">
@@ -12,6 +13,7 @@
 <p>At the present time, I’m ending a bootcamp of Frontend develop, to improve my skill at this area. I’m learning about Vue.js framework, Scss, Javascript and Firebase, and also I’m developing freelance some frontend systems interface for little local business.</p>
 </div>
 
+<br>
 <div class="skills my-3">
 <span class="fw-bold text-uppercase py-3">⌨️ Skills.</span>
 <hr class="w-25">
@@ -32,6 +34,7 @@
 </div>
 </div>
 
+<br>
 <div class="software my-3">
 <span class="fw-bold text-uppercase py-3">🖥️ Software.</span>
 <hr class="w-25">
@@ -47,14 +50,15 @@
 </div>
 </div>
 
-<div class="expectatives my-3">
+<br>
+<div class="expectations my-3">
 <span class="fw-bold text-uppercase py-3">🚀 Expectations.</span>
 <hr class="w-25">
 
 <p>I would like to continue developing creative projects and creating unique web interfaces to help those who have ideas and do not know how to translate them into a real project that helps achieve their objectives.</p>
-
 </div>
 
+<br>
 <div class="contact my-3">
 <span class="fw-bold text-uppercase py-3">📨 Contact me.</span>
 <hr class="w-25">
@@ -67,9 +71,9 @@
 <div class="d-flex g-3 flex-row flex-wrap g-3 py-3">
    <a href="https://github.com/esilvapellet" target="_blank"><img class="mx-2" alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
-
 </div>
 
+<br>
 <div class="portfolio my-3">
 <span class="fw-bold text-uppercase py-3">💼 Portfolio.</span>
 <hr class="w-25">
