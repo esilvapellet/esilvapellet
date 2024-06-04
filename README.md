@@ -8,7 +8,6 @@
 <br>
 <div class="actual my-3">
 <h2 class="fw-bold text-uppercase py-3">👨🏻‍💻 Me now.</h2>
-<hr class="w-25">
 
 <p>At the present time, I’m ending a bootcamp of Frontend develop, to improve my skill at this area. I’m learning about Vue.js framework, Scss, Javascript and Firebase, and also I’m developing freelance some frontend systems interface for little local business.</p>
 </div>
@@ -16,7 +15,6 @@
 <br>
 <div class="skills my-3">
 <h2 class="fw-bold text-uppercase py-3">⌨️ Skills.</h2>
-<hr class="w-25">
 
 <div class="d-flex g-3 flex-row flex-wrap g-3">
 <img class="mx-2" alt="Vue JS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
@@ -37,7 +35,6 @@
 <br>
 <div class="software my-3">
 <h2 class="fw-bold text-uppercase py-3">🖥️ Software.</h2>
-<hr class="w-25">
 
 <div class="d-flex g-3 flex-row flex-wrap g-3">
 <img class="mx-2" alt="VSCode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -53,7 +50,6 @@
 <br>
 <div class="expectations my-3">
 <h2 class="fw-bold text-uppercase py-3">🚀 Expectations.</h2>
-<hr class="w-25">
 
 <p>I would like to continue developing creative projects and creating unique web interfaces to help those who have ideas and do not know how to translate them into a real project that helps achieve their objectives.</p>
 </div>
@@ -61,7 +57,6 @@
 <br>
 <div class="contact my-3">
 <h2 class="fw-bold text-uppercase py-3">📨 Contact me.</h2>
-<hr class="w-25">
 
 <div class="d-flex g-3 flex-row flex-wrap g-3 py-3">
    <a href="https://https://www.linkedin.com/in/esilvapellet/" target="_blank"><img class="mx-2" alt="Linkedin"
@@ -76,7 +71,6 @@
 <br>
 <div class="portfolio my-3">
 <h2 class="fw-bold text-uppercase py-3">💼 Portfolio.</h2>
-<hr class="w-25">
 
 <span>Under construction...</span>
 </div>
